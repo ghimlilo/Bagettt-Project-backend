@@ -8,9 +8,8 @@
 - 개발기간 : 2021-11-29 ~ 2021-12-10
 - Front-end : (https://github.com/wecode-bootcamp-korea/27-1st-bagettt-frontend)
 - Back-end : 김은혜, 이재문
-- <br>
-  김은혜 : ERD/Modeling, API Document, Database, PackagesList(filter) & ProductsDetailView, CartView(POST, GET, DELETE, PATCH)
-  이재문 : ERD/Modeling, LogIn & SignUpView(인가 Decorator, 값 검증 Validator), OrderView
+- <br>김은혜 : ERD/Modeling, API Document, Database, PackagesList(filter) & ProductsDetailView, CartView(POST, GET, DELETE, PATCH)
+- <br>이재문 : ERD/Modeling, LogIn & SignUpView(인가 Decorator, 값 검증 Validator), OrderView
 
 ## 협업 도구
 - slack
