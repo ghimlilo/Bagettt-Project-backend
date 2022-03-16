@@ -45,4 +45,3 @@ Python, Django, MySQL, Bcrypt, JWT, AWS(EC2, RDS, Git)
 - API Document(https://docs.google.com/spreadsheets/d/1LvlwsQ6QJSQ0f5bkeS_LluSu8xF7KqAE3olJOh2dAT8/edit?usp=sharing)
 - 이 프로젝트는 [**GETTT**](https://www.gettt.com/) 사이트를 참조하여 학습목적으로 만들었습니다.
 - 실무 수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제가 될 수 있습니다.
-- 이 프로젝트에서 사용하고 있는 사진 대부분은 위코드에서 구매한 것이므로 해당 프로젝트 외부인이 사용할 수 없습니다.
